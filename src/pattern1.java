@@ -1,3 +1,12 @@
+/*  11
+    111
+    1111
+    1111
+    11111     */
+
+
+
+
 public class pattern1 {
     public static void main(String[] args){
         int d=1;
